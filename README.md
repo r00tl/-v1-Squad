@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @r00tl
+- 👀 I’m very passionate about hacking and social engineering since 2012 ...
+- 💞️ I’m looking to collaborate on web security and IoT Security...
+- 📫 How to reach me ...
+
+<!---
+r00tl/r00tl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
